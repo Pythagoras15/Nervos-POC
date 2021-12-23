@@ -5,8 +5,7 @@ const {
   PolyjuiceAccounts,
 } = require("@polyjuice-provider/web3");
 
-const DEPLOYER_PRIVATE_KEY =
-  "af41b6c8ddf437b8310798935f2929fd0a1c2539db03264dd26b55395e51d65f"; // Replace this with your Ethereum private key with funds on Layer 2.
+const DEPLOYER_PRIVATE_KEY = "PK"; // Replace this with your Ethereum private key with funds on Layer 2.
 
 const polyjuiceConfig = {
   web3Url: "https://godwoken-testnet-web3-rpc.ckbapp.dev",
